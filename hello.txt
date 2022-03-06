@@ -18,5 +18,6 @@ hello hxc! hello git!
 hello hxc! hello git!
 hello hxc! hello git!
 hello hxc! hello git!
-hello hxc! hello git! master test
-hello whxc! hello git!
+hello hxc! hello git! master tes
+hello whxc! hello git! hot-fix test
+
